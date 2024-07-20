@@ -1,5 +1,5 @@
 ---
-title: "A federated learning-based patient monitoring system in internet of medical things"
+title: "A Federated Learning-Based Patient Monitoring System in Internet of Medical Things"
 collection: publications
 date: 2022-12-20
 venue: '<b>IEEE Transactions on Computational Social Systems(TCSS)</b>'
