@@ -30,7 +30,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.paperurl }}">{{ title }}</a>
+        <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
       {% endif %}
     </h2>
     
@@ -47,7 +47,7 @@
         {% endif %}
 
     {% if post.Authors %}
-    <p>Authors:<i>{{ post.Authors}}</i> </p>     {% endif %}
+    <p>Authors:{{ post.Authors}} </p>     {% endif %}
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
