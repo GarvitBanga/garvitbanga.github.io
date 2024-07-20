@@ -2,7 +2,7 @@
 title: "Fed-RAC: Resource-Aware Clustering for Tackling Heterogeneity of Participants in Federated Learning"
 collection: publications
 permalink: /publication/FedRAC
-date: 2009-10-01
+date: 2024-03-20
 venue: 'IEEE Transactions on Parallel and Distributed Systems(TPDS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10476717'
 ---
