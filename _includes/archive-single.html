@@ -47,7 +47,7 @@
         {% endif %}
 
     {% if post.Authors %}
-    <p>Authors:<i>{{ post.Authors}}</i> </p>
+    <p>Authors:<i>{{ post.Authors}}</i> </p>     {% endif %}
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
