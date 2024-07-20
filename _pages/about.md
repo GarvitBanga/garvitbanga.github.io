@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-======
+
 
 
 Garvit Banga
