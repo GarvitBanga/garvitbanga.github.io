@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 
-WHO AM I?
 ======
 Hi, I am Garvit Banga, a second-year Master's Student in the Courant Institute of Mathematical Sciences at New York University, working with Prof. Qi Lei on Federated Learning for Domain Adaptation using MGDA. I am also working closely with Prof. Aritra Dutta on Federated Learning with Bandwidth-Aware Gradient Compression for Multimodal Clients.
 
