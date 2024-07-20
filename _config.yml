@@ -25,8 +25,8 @@ author:
   name             : "Garvit Banga"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Master's Student"
-  location         : "Jersey CIty"
-  employer         : "New York University"
+  location         : "USA"
+  employer         : #"New York University"
   uri              : # URL
   email            : "gb2762@nyu.edu"
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=XkW4KCkAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-6473-7261"
+  orcid            : #"https://orcid.org/0000-0001-6473-7261"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
