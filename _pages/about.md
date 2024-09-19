@@ -16,5 +16,5 @@ You can find my [CV](https://garvitbanga.github.io/files/GarvitBangaCV.pdf) and 
 
 Research Interests
 ======
-Federated Learning, Domain Adaptation, Multimodal Learning, Model Compression, Optimization.<br><br>
+Federated Learning, Domain Adaptation, Multimodal Learning, Gradient Compression, Optimization.<br><br>
 Currently, I am looking for <b>PhD opportunities starting Fall 2025</b> and interested in collaborating on Federated Learning-based research projects. If you have any leads, please reach out to me <a href="mailto:gb2762@nyu.edu">here</a>.
